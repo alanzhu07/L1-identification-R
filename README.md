@@ -1,0 +1,4 @@
+# L1-identification-R
+L1 Identification: A Clustering and Classification Analysis
+
+L1 transfer is a linguistic phenomenon where some linguistic features from the L1 are applied to the L2, and its effect is specific to different L1s. Identifying the L1 of L2 learners may be useful to provide specific guidance in L2 learning and writing in L2. In this article, I analyze English texts written by L2 learners with French, German, Cantonese, and Japanese L1s as well as texts written by native English speakers from the BAWE corpus to determine the effects of L1 transfer. I use hierarchical agglomerative clustering and k-means clustering based on the part-of-speech frequencies of each text to examine the similarities and differences in writings produced by writers of different L1s. I also build a multinomial logistic regression model with Lasso regularization and a random forest model to predict the L1, achieving reasonable accuracy.
